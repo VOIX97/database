@@ -1,0 +1,44 @@
+LOCUS       WP_004193246             246 aa            linear   BCT 01-FEB-2018
+DEFINITION  MULTISPECIES: 30S ribosomal protein S2 [Burkholderia].
+ACCESSION   WP_004193246
+VERSION     WP_004193246.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderia
+  ORGANISM  Burkholderia
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..246
+                     /organism="Burkholderia"
+                     /db_xref="taxon:32008"
+     Protein         1..246
+                     /product="30S ribosomal protein S2"
+                     /calculated_mol_wt=27006
+     Region          1..246
+                     /region_name="rpsB"
+                     /note="30S ribosomal protein S2; Provisional; PRK05299"
+                     /db_xref="CDD:235396"
+     Site            order(24..25,34..36,94,96..98,101..102,174,177)
+                     /site_type="other"
+                     /note="rRNA interaction site [nucleotide binding]"
+                     /db_xref="CDD:100106"
+     Site            order(176..177,179,193..196)
+                     /site_type="other"
+                     /note="S8 interaction site"
+                     /db_xref="CDD:100106"
+     Site            211..216
+                     /site_type="other"
+                     /note="putative laminin-1 binding site"
+                     /db_xref="CDD:100106"
+ORIGIN      
+        1 maitmrqmle agvhfghqtr fwnpkmapfi fghrnkihii nlektlpmyn dalkyvrqla
+       61 anrgtilfvg tkrqsrdtia qealragmpy vnarwlggml tnfktlkvsi krlkdmeaav
+      121 eagelekmsk keallferei aklqksiggv kdmggipdai fvvdvgyhki avteanklgv
+      181 pviavvdtnh spegvdyvip gnddsskava lyaqgvadai legranavne vvqavrgdde
+      241 yveena
+//
+

@@ -1,0 +1,45 @@
+LOCUS       WP_004197946             121 aa            linear   BCT 28-DEC-2014
+DEFINITION  MULTISPECIES: 50S ribosomal protein L18 [Burkholderia].
+ACCESSION   WP_004197946
+VERSION     WP_004197946.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderia
+  ORGANISM  Burkholderia
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..121
+                     /organism="Burkholderia"
+                     /db_xref="taxon:32008"
+     Protein         1..121
+                     /product="50S ribosomal protein L18"
+                     /calculated_mol_wt=12931
+     Region          1..121
+                     /region_name="rplR"
+                     /note="50S ribosomal protein L18; Reviewed; PRK05593"
+                     /db_xref="CDD:235524"
+     Site            order(15,17..18,20,25,29..34,36,38,45..47,50,95,106)
+                     /site_type="other"
+                     /note="5S rRNA interface [nucleotide binding]"
+                     /db_xref="CDD:238246"
+     Site            order(15,18..19)
+                     /site_type="other"
+                     /note="L27 interface [polypeptide binding]"
+                     /db_xref="CDD:238246"
+     Site            order(16..17,96,99,115)
+                     /site_type="other"
+                     /note="23S rRNA interface [nucleotide binding]"
+                     /db_xref="CDD:238246"
+     Site            101
+                     /site_type="other"
+                     /note="L5 interface [polypeptide binding]"
+                     /db_xref="CDD:238246"
+ORIGIN      
+        1 mdktqsrlrr arqtrikiae lqvarlavhr tnthiyaqvf spcgtkvlas astleaevra
+       61 qladksgkgg nvaaatligk riaekakaag iesvafdrsg fryhgrvkal aeaareaglk
+      121 f
+//
+

@@ -1,0 +1,37 @@
+LOCUS       WP_004199272             109 aa            linear   BCT 31-MAR-2016
+DEFINITION  MULTISPECIES: 50S ribosomal protein L22 [Burkholderiaceae].
+ACCESSION   WP_004199272
+VERSION     WP_004199272.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderiaceae
+  ORGANISM  Burkholderiaceae
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..109
+                     /organism="Burkholderiaceae"
+                     /db_xref="taxon:119060"
+     Protein         1..109
+                     /product="50S ribosomal protein L22"
+                     /calculated_mol_wt=11685
+     Region          1..109
+                     /region_name="rplV"
+                     /note="50S ribosomal protein L22; Reviewed; PRK00565"
+                     /db_xref="CDD:234793"
+     Site            order(3..4,26..28,30..31,33..34,55..60,69..74,106..107)
+                     /site_type="other"
+                     /note="putative translocon binding site"
+                     /db_xref="CDD:238205"
+     Site            order(6,8,11,13..15,18,22,25,53,57,60,73,75..77,79,82,
+                     94..99)
+                     /site_type="other"
+                     /note="protein-rRNA interface [nucleotide binding]"
+                     /db_xref="CDD:238205"
+ORIGIN      
+        1 mevkaihrga risaqktrlv adqirglpvd kalnvltfsp kkaagivkkv vlsaianaeh
+       61 negadidelk iksiyvdkaa slkrftarak grgnriekqs chitvtvgn
+//
+

@@ -1,0 +1,40 @@
+LOCUS       WP_004185828              89 aa            linear   BCT 28-DEC-2014
+DEFINITION  MULTISPECIES: 30S ribosomal protein S15 [Burkholderia].
+ACCESSION   WP_004185828
+VERSION     WP_004185828.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderia
+  ORGANISM  Burkholderia
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..89
+                     /organism="Burkholderia"
+                     /db_xref="taxon:32008"
+     Protein         1..89
+                     /product="30S ribosomal protein S15"
+                     /calculated_mol_wt=9967
+     Region          1..89
+                     /region_name="rpsO"
+                     /note="30S ribosomal protein S15; Reviewed; PRK05626"
+                     /db_xref="CDD:180170"
+     Site            order(8,25,28,35,39,42,46,48..49,51..52,65,69)
+                     /site_type="other"
+                     /note="16S/18S rRNA binding site [nucleotide binding]"
+                     /db_xref="CDD:238213"
+     Site            order(30,33..34,37,40,80,84)
+                     /site_type="other"
+                     /note="S13e-L30e interaction site [polypeptide binding]"
+                     /db_xref="CDD:238213"
+     Site            order(60,64,85..86)
+                     /site_type="other"
+                     /note="25S rRNA binding site [nucleotide binding]"
+                     /db_xref="CDD:238213"
+ORIGIN      
+        1 msvadikkse vvaqfargan dtgspevqva lltaritelt ghfkthakdh hsrrgllrmv
+       61 srrrklldyl kgkdadryra lieklglrk
+//
+

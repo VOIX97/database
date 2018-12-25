@@ -1,0 +1,27 @@
+LOCUS       WP_004199844              38 aa            linear   BCT 01-OCT-2017
+DEFINITION  MULTISPECIES: 50S ribosomal protein L36 [Proteobacteria].
+ACCESSION   WP_004199844
+VERSION     WP_004199844.1
+KEYWORDS    RefSeq.
+SOURCE      Proteobacteria
+  ORGANISM  Proteobacteria
+            Bacteria.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..38
+                     /organism="Proteobacteria"
+                     /db_xref="taxon:1224"
+     Protein         1..38
+                     /product="50S ribosomal protein L36"
+                     /calculated_mol_wt=4279
+     Region          1..38
+                     /region_name="Ribosomal_L36"
+                     /note="Ribosomal protein L36; pfam00444"
+                     /db_xref="CDD:306861"
+ORIGIN      
+        1 mkvmasvkri crnckiikrk gvvrvicssd prhkqrqg
+//
+

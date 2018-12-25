@@ -1,0 +1,28 @@
+LOCUS       WP_004189743              92 aa            linear   BCT 28-DEC-2014
+DEFINITION  MULTISPECIES: 30S ribosomal protein S20 [Burkholderia].
+ACCESSION   WP_004189743
+VERSION     WP_004189743.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderia
+  ORGANISM  Burkholderia
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..92
+                     /organism="Burkholderia"
+                     /db_xref="taxon:32008"
+     Protein         1..92
+                     /product="30S ribosomal protein S20"
+                     /calculated_mol_wt=9716
+     Region          1..88
+                     /region_name="rpsT"
+                     /note="30S ribosomal protein S20; Reviewed; PRK00239"
+                     /db_xref="CDD:178943"
+ORIGIN      
+        1 mansaqarkr arqaakansh nsalrskfrt aikavrkaid agdqakaael fkaatktidt
+       61 iadkkivhkn kaarhksrls aavkglqaqa aq
+//
+

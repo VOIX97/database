@@ -1,0 +1,31 @@
+LOCUS       WP_004199276             206 aa            linear   BCT 01-FEB-2018
+DEFINITION  MULTISPECIES: 50S ribosomal protein L4 [Burkholderia].
+ACCESSION   WP_004199276
+VERSION     WP_004199276.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderia
+  ORGANISM  Burkholderia
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..206
+                     /organism="Burkholderia"
+                     /db_xref="taxon:32008"
+     Protein         1..206
+                     /product="50S ribosomal protein L4"
+                     /calculated_mol_wt=22735
+     Region          1..206
+                     /region_name="rplD"
+                     /note="50S ribosomal protein L4; Provisional; PRK05319"
+                     /db_xref="CDD:235404"
+ORIGIN      
+        1 melkllnsng qegavvnasd vvfgrdynea lihqvvvayq anarqgnraq kdreqvkhtt
+       61 kkpwrqkgtg raragmsssp lwrgggrifp nspdenfshk vnkkmhragl csifsqlare
+      121 grlsvvediv leapktklla dkfkamglds vlvitdtvde nlylasrnlp hvavveprya
+      181 dplsliyfkk vlvtkaavaq ieells
+//
+

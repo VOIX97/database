@@ -1,0 +1,29 @@
+LOCUS       WP_004197945             172 aa            linear   BCT 31-MAR-2016
+DEFINITION  MULTISPECIES: 30S ribosomal protein S5 [Burkholderiaceae].
+ACCESSION   WP_004197945
+VERSION     WP_004197945.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderiaceae
+  ORGANISM  Burkholderiaceae
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..172
+                     /organism="Burkholderiaceae"
+                     /db_xref="taxon:119060"
+     Protein         1..172
+                     /product="30S ribosomal protein S5"
+                     /calculated_mol_wt=18019
+     Region          5..172
+                     /region_name="rpsE"
+                     /note="30S ribosomal protein S5; Validated; PRK00550"
+                     /db_xref="CDD:234790"
+ORIGIN      
+        1 makmqakvqa derddglrek misvnrvtkv vkggrilgfa altvvgdgdg rvgmgkgkak
+       61 evpvavqkam eqarrnmfkv plkngtlqhe vhgkhgastv llapakdgtg viaggpmrav
+      121 fdvmgvqnvv akshgstnpy nlvratldgl rkqstpadia akrgksveei lg
+//
+

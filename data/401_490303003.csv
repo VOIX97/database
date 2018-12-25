@@ -1,0 +1,57 @@
+LOCUS       WP_004198366             124 aa            linear   BCT 01-FEB-2018
+DEFINITION  MULTISPECIES: 50S ribosomal protein L7/L12 [Burkholderia].
+ACCESSION   WP_004198366
+VERSION     WP_004198366.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderia
+  ORGANISM  Burkholderia
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..124
+                     /organism="Burkholderia"
+                     /db_xref="taxon:32008"
+     Protein         1..124
+                     /product="50S ribosomal protein L7/L12"
+                     /calculated_mol_wt=12428
+     Region          1..124
+                     /region_name="rplL"
+                     /note="50S ribosomal protein L7/L12; Reviewed; PRK00157"
+                     /db_xref="CDD:234671"
+     Site            order(6,9,13,26,31)
+                     /site_type="other"
+                     /note="peripheral dimer interface [polypeptide binding]"
+                     /db_xref="CDD:100102"
+     Site            order(16..18,21..22,25,28,38,41..42,44..46,56..57,78,
+                     80..81,83,85..86,100..101,103,106)
+                     /site_type="other"
+                     /note="core dimer interface [polypeptide binding]"
+                     /db_xref="CDD:100102"
+     Site            order(20,23..24,28,31)
+                     /site_type="other"
+                     /note="L10 interface [polypeptide binding]"
+                     /db_xref="CDD:100102"
+     Site            order(69..70,73..74,77,84..85,88)
+                     /site_type="other"
+                     /note="L11 interface [polypeptide binding]"
+                     /db_xref="CDD:100102"
+     Site            order(70,74,77,84..85,88)
+                     /site_type="other"
+                     /note="putative EF-Tu interaction site [polypeptide
+                     binding]"
+                     /db_xref="CDD:100102"
+     Site            order(70,73..74,77)
+                     /site_type="other"
+                     /note="putative EF-G interaction site [polypeptide
+                     binding]"
+                     /db_xref="CDD:100102"
+ORIGIN      
+        1 maiakedila avegmtvlel nelvkafeek fgvsaaavav agpaaggaaa aaeekteftv
+       61 vlaeagsnkv avikavreit glglkeakdl vdgapkpvke gvdkasadea kkkledagak
+      121 velk
+//
+

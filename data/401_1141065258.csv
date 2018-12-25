@@ -1,0 +1,36 @@
+LOCUS       WP_076881297             387 aa            linear   BCT 04-JUL-2017
+DEFINITION  cupin domain-containing protein [Burkholderia pseudomallei].
+ACCESSION   WP_076881297
+VERSION     WP_076881297.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderia pseudomallei
+  ORGANISM  Burkholderia pseudomallei
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae; Burkholderia; pseudomallei group.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..387
+                     /organism="Burkholderia pseudomallei"
+                     /db_xref="taxon:28450"
+     Protein         1..387
+                     /product="cupin domain-containing protein"
+                     /calculated_mol_wt=43467
+     Region          2..380
+                     /region_name="RoxA"
+                     /note="Ribosomal protein L16 Arg81 hydroxylase, contains
+                     JmjC domain [Translation, ribosomal structure and
+                     biogenesis]; COG2850"
+                     /db_xref="CDD:225406"
+ORIGIN      
+        1 mseaptpllg nlspaqfmhr ywqkkpllir qaitgiappl srdalfelaa dydvesrlvt
+       61 hfrnrwqleh gpfepehlps vkrrewtllv qgldlhddra rallerfrfv pdarlddlmi
+      121 syatdgggvg phfdsydvfl lqvhgkrrwr igaqqdlslq eglplkilan feptdewvle
+      181 pgdmlylpph iahdgialge cmtcsigfra psagelraqf lyhlaerggl rtgarenary
+      241 rdpaqpavds pamlpaamvk rvaatlagiq wdehdvgdfl gcylsepksn vvfepptrrl
+      301 geaafvtqas rrgvrldrka allynarsyf ingdahplat aakwlpelad trrmeakrfv
+      361 tlsrdpamtg llhewycagw irvgdmg
+//
+

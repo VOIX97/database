@@ -1,0 +1,30 @@
+LOCUS       WP_004197947             176 aa            linear   BCT 01-FEB-2018
+DEFINITION  MULTISPECIES: 50S ribosomal protein L6 [Burkholderia].
+ACCESSION   WP_004197947
+VERSION     WP_004197947.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderia
+  ORGANISM  Burkholderia
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..176
+                     /organism="Burkholderia"
+                     /db_xref="taxon:32008"
+     Protein         1..176
+                     /product="50S ribosomal protein L6"
+                     /calculated_mol_wt=18544
+     Region          1..176
+                     /region_name="rplF"
+                     /note="50S ribosomal protein L6; Validated; PRK05498"
+                     /db_xref="CDD:235495"
+ORIGIN      
+        1 msrvgkspia lqgaevklad gaitvkgplg titqavnplv nvanndgtln lspvddsrea
+       61 nalsgtmrai ianavhgvtk gferkltlvg vgyraqaqgd klnlslgfsh pvvhqmpegi
+      121 kaetptqtei vikgidkqkv gqvaaevrgy rppepykgkg vryadevvil ketkkk
+//
+

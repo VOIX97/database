@@ -1,0 +1,30 @@
+LOCUS       WP_004194309             130 aa            linear   BCT 08-SEP-2016
+DEFINITION  MULTISPECIES: 30S ribosomal protein S9 [Burkholderia].
+ACCESSION   WP_004194309
+VERSION     WP_004194309.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderia
+  ORGANISM  Burkholderia
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..130
+                     /organism="Burkholderia"
+                     /db_xref="taxon:32008"
+     Protein         1..130
+                     /product="30S ribosomal protein S9"
+                     /calculated_mol_wt=14166
+     Region          1..130
+                     /region_name="rpsI"
+                     /note="30S ribosomal protein S9; Reviewed; PRK00132"
+                     /db_xref="CDD:178888"
+ORIGIN      
+        1 mignwnygtg rrksavarvf ikagkgdivv ngkpisdyfs retslmivrq pleltnhaqt
+       61 fdikvnvsgg getgqagavr hgitralidy datlkpalsn agfvtrdare verkkvglhk
+      121 arrakqfskr
+//
+

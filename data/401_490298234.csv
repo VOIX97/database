@@ -1,0 +1,37 @@
+LOCUS       WP_004193673             124 aa            linear   BCT 24-DEC-2014
+DEFINITION  MULTISPECIES: 30S ribosomal protein S6 [Burkholderia].
+ACCESSION   WP_004193673
+VERSION     WP_004193673.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderia
+  ORGANISM  Burkholderia
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..124
+                     /organism="Burkholderia"
+                     /db_xref="taxon:32008"
+     Protein         1..124
+                     /product="30S ribosomal protein S6"
+                     /calculated_mol_wt=14175
+     Region          1..107
+                     /region_name="rpsF"
+                     /note="30S ribosomal protein S6; Reviewed; PRK00453"
+                     /db_xref="CDD:179034"
+     Site            order(4,49,53,68,71..72,79,86,89..91)
+                     /site_type="other"
+                     /note="rRNA binding site [nucleotide binding]"
+                     /db_xref="CDD:275385"
+     Site            order(5,7,45,47..49,59,61,86,90)
+                     /site_type="other"
+                     /note="S18 interface [polypeptide binding]"
+                     /db_xref="CDD:275385"
+ORIGIN      
+        1 mrhyeivfiv hpdqseqvpa mierykstit shggqihrve dwgrrqlaym ieklakahyv
+       61 cmniecdqtt ldelehafkf ndavlrhliv kmkkaetgps pmmkevqree akkaaaaqpt
+      121 eaqa
+//
+

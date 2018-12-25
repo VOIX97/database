@@ -1,0 +1,74 @@
+LOCUS       EEC36392                 300 aa            linear   BCT 04-FEB-2010
+DEFINITION  ribosomal protein L11 methyltransferase [Burkholderia pseudomallei
+            576].
+ACCESSION   EEC36392
+VERSION     EEC36392.1
+DBLINK      BioProject: PRJNA31091
+            BioSample: SAMN02470264
+DBSOURCE    accession ACCE01000003.1
+KEYWORDS    .
+SOURCE      Burkholderia pseudomallei 576
+  ORGANISM  Burkholderia pseudomallei 576
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae; Burkholderia; pseudomallei group.
+REFERENCE   1  (residues 1 to 300)
+  AUTHORS   Harkins,D.M., Brinkac,L.M., Dunbar,J., Munk,A.C., Brettin,T.S.,
+            Tapia,R., Green,L., Bruce,D. and Detter,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-DEC-2008) Los Alamos National Laboratory, P.O. Box
+            1663, Los Alamos, NM 87545, USA
+REFERENCE   2  (residues 1 to 300)
+  AUTHORS   Brinkac,L.M., Harkins,D.M., Shrivastava,S., Durkin,A.S. and
+            Sutton,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-FEB-2010) J. Craig Venter Institute, 9704 Medical
+            Center Drive, Rockville, MD 20850, USA
+  REMARK    Amino acid sequence updated by submitter
+COMMENT     The Burkholderia pseudomallei 576 isolate was obtained from the
+            Wellcome Trust Unit in Bangkok, Thailand. The strain was originally
+            isolated from a 49 year old woman suffering from melioidosis in
+            1989. In the murine model of disease, strain 576 is highly virulent
+            and appears to have atypcial LPS. For more information about this
+            strain contact Richard Titball (rtitball@mail.dstl.gov.uk) at the
+            The Defence Science and Technology Laboratory or John Dunbar
+            (dunbar@lanl.gov) at Los Alamos National Laboratory. The authors
+            wish to acknowledge the Intelligence Technology Innovation Center
+            for funding the sequencing and the NIH/NIAID for funding the
+            annotation at Pathema Bioinformatics Resource Center.
+            The NIAID funded Bioinformatics Resource Center PathoSystems
+            Resource Integration Center (PATRIC; http://patricbrc.vbi.vt.edu/)
+            is responsible for annotation updates of this record.
+            Genome Coverage: 11.9x
+            Annotation was updated on the contigs in February 2010.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..300
+                     /organism="Burkholderia pseudomallei 576"
+                     /strain="576"
+                     /isolation_source="49 year old woman suffering from
+                     melioidosis"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:557724"
+                     /country="Thailand"
+                     /collection_date="1989"
+     Protein         1..300
+                     /product="ribosomal protein L11 methyltransferase"
+                     /EC_number="2.1.1.-"
+     CDS             1..300
+                     /gene="prmA"
+                     /locus_tag="BUC_3773"
+                     /coded_by="ACCE01000003.1:877271..878173"
+                     /note="identified by match to protein family HMM PF05175;
+                     match to protein family HMM PF06325; match to protein
+                     family HMM PF08241; match to protein family HMM PF08242;
+                     match to protein family HMM TIGR00406"
+                     /transl_table=11
+                     /db_xref="Pathema:BUC_3773"
+ORIGIN      
+        1 msyrelvael prehaealsd alvelgalsv svedadadtp deqplfgepg lvpertawqh
+       61 srvialvdat qdpavllaaa aneaglaqap rfelreveeq dwvrltqsqf epihigekiw
+      121 vvpswhdapq pdalvleldp glafgtgshp ttrlcmewle qtvqpgqtvl dygcgsgila
+      181 ilakkcgagh vtgididpqa veaarhnser nradvtyglp ddcpdgefdi vvanilsnpl
+      241 klmasmlask vkpggrials gvlarqadev asvyaryidi avwrehegwv clagtrresh
+//
+

@@ -1,0 +1,28 @@
+LOCUS       WP_004201274              90 aa            linear   BCT 28-DEC-2014
+DEFINITION  MULTISPECIES: 30S ribosomal protein S17 [Burkholderia].
+ACCESSION   WP_004201274
+VERSION     WP_004201274.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderia
+  ORGANISM  Burkholderia
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..90
+                     /organism="Burkholderia"
+                     /db_xref="taxon:32008"
+     Protein         1..90
+                     /product="30S ribosomal protein S17"
+                     /calculated_mol_wt=10118
+     Region          6..88
+                     /region_name="rpsQ"
+                     /note="30S ribosomal protein S17; Reviewed; PRK05610"
+                     /db_xref="CDD:235532"
+ORIGIN      
+        1 mndsvktslk rtlvgkvvsn kmdktvtvlv ehrvkhpiyg kyvvrskkyh ahdeantyne
+       61 gdlveiqetr pvsktkawav srlveaarvi
+//
+

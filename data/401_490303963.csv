@@ -1,0 +1,29 @@
+LOCUS       WP_004199280             103 aa            linear   BCT 04-JAN-2017
+DEFINITION  MULTISPECIES: 30S ribosomal protein S10 [Burkholderia].
+ACCESSION   WP_004199280
+VERSION     WP_004199280.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderia
+  ORGANISM  Burkholderia
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..103
+                     /organism="Burkholderia"
+                     /db_xref="taxon:32008"
+     Protein         1..103
+                     /product="30S ribosomal protein S10"
+                     /calculated_mol_wt=11697
+     Region          1..102
+                     /region_name="rpsJ"
+                     /note="30S ribosomal protein S10; Reviewed; PRK00596"
+                     /db_xref="CDD:179076"
+ORIGIN      
+        1 mqqqkirirl kafdyrlidq saaeivdtak rtgaivrgpv plptriqrfd ilrsphvnkt
+       61 srdqleirth qrlmdivdpt dktvdalmkl dlpagvdvei klq
+//
+

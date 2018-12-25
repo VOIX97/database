@@ -1,0 +1,28 @@
+LOCUS       WP_004190342              70 aa            linear   BCT 25-MAR-2015
+DEFINITION  MULTISPECIES: 30S ribosomal protein S21 [Burkholderia].
+ACCESSION   WP_004190342
+VERSION     WP_004190342.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderia
+  ORGANISM  Burkholderia
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..70
+                     /organism="Burkholderia"
+                     /db_xref="taxon:32008"
+     Protein         1..70
+                     /product="30S ribosomal protein S21"
+                     /calculated_mol_wt=8448
+     Region          1..61
+                     /region_name="rpsU"
+                     /note="30S ribosomal protein S21; Reviewed; PRK00270"
+                     /db_xref="CDD:234707"
+ORIGIN      
+        1 mtiirvkene pfevamrrfk rtiekngllt elrarefyek ptaerkrkka aavkrhykri
+       61 rsqmlpkkly
+//
+

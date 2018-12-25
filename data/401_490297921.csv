@@ -1,0 +1,28 @@
+LOCUS       WP_004193360              91 aa            linear   BCT 29-AUG-2013
+DEFINITION  MULTISPECIES: 30S ribosomal protein S18 [Burkholderia].
+ACCESSION   WP_004193360
+VERSION     WP_004193360.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderia
+  ORGANISM  Burkholderia
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..91
+                     /organism="Burkholderia"
+                     /db_xref="taxon:32008"
+     Protein         1..91
+                     /product="30S ribosomal protein S18"
+                     /calculated_mol_wt=10482
+     Region          10..88
+                     /region_name="rpsR"
+                     /note="30S ribosomal protein S18; Reviewed; PRK00391"
+                     /db_xref="CDD:178997"
+ORIGIN      
+        1 marptgkkfd krrqqqnplf krkkfcrfta agveqidykd tetlkdfige ngkitparlt
+       61 gtkahyqrql dtaikrarfl allpytdqhk a
+//
+

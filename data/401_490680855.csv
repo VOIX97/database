@@ -1,0 +1,31 @@
+LOCUS       WP_004545626             207 aa            linear   BCT 26-MAR-2016
+DEFINITION  30S ribosomal protein S4 [Burkholderia pseudomallei].
+ACCESSION   WP_004545626
+VERSION     WP_004545626.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderia pseudomallei
+  ORGANISM  Burkholderia pseudomallei
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae; Burkholderia; pseudomallei group.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..207
+                     /organism="Burkholderia pseudomallei"
+                     /db_xref="taxon:28450"
+     Protein         1..207
+                     /product="30S ribosomal protein S4"
+                     /calculated_mol_wt=23047
+     Region          1..207
+                     /region_name="rpsD"
+                     /note="30S ribosomal protein S4; Validated; PRK05327"
+                     /db_xref="CDD:235411"
+ORIGIN      
+        1 maryigpkak lsrregtdlf lksarrslad kckldskpgq hgrisgarts dygtqlrekq
+       61 kvkriygvle rqfrryfaea drrkgntget llqllesrld nvvyrmgfgs traearqlvs
+      121 hkaitvngiv anipsqqvra gdvvaireka kkqariveal slaeqggmps wvavdakkfe
+      181 gtfkqvpera diagdinesl ivelysr
+//
+

@@ -1,0 +1,69 @@
+LOCUS       AIO94304                 219 aa            linear   BCT 01-DEC-2014
+DEFINITION  50S ribosomal protein L3 [Burkholderia pseudomallei 576].
+ACCESSION   AIO94304
+VERSION     AIO94304.1
+DBLINK      BioProject: PRJNA244408
+            BioSample: SAMN02866333
+DBSOURCE    accession CP008777.1
+KEYWORDS    .
+SOURCE      Burkholderia pseudomallei 576
+  ORGANISM  Burkholderia pseudomallei 576
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae; Burkholderia; pseudomallei group.
+REFERENCE   1  (residues 1 to 219)
+  AUTHORS   Daligault,H.E., Davenport,K.W., Minogue,T.D., Bishop-Lilly,K.A.,
+            Broomall,S.M., Bruce,D.C., Chain,P.S., Coyne,S.R., Frey,K.G.,
+            Gibbons,H.S., Jaissle,J., Koroleva,G.I., Ladner,J.T., Lo,C.C.,
+            Munk,C., Palacios,G.F., Redden,C.L., Rosenzweig,C.N., Scholz,M.B.
+            and Johnson,S.L.
+  TITLE     Whole-Genome Assemblies of 56 Burkholderia Species
+  JOURNAL   Genome Announc 2 (6) (2014)
+   PUBMED   25414490
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 219)
+  AUTHORS   Bishop-Lilly,K.A., Broomall,S.M., Chain,P.S., Chertkov,O.,
+            Coyne,S.R., Daligault,H.E., Davenport,K.W., Erkkila,T., Frey,K.G.,
+            Gibbons,H.S., Gu,W., Jaissle,J., Johnson,S.L., Koroleva,G.I.,
+            Ladner,J.T., Lo,C.-C., Minogue,T.D., Munk,C., Palacios,G.F.,
+            Redden,C.L., Rosenzweig,C.N., Scholz,M.B., Teshima,H. and Xu,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-JUN-2014) Bioscience, Los Alamos National Laboratory,
+            P.O. Box 1663, MS M888, Los Alamos, NM 87545, USA
+COMMENT     The DNA was obtained from USAMRIID. The authors would like to thank
+            Drs Mark May and Bart Currie for providing the original strain.
+            
+            ##Genome-Assembly-Data-START##
+            Assembly Date         :: 20-MAR-2013
+            Assembly Method       :: Newbler v. 2.6; Velvet v. 1.2.08; Allpaths
+                                     v. 39750; Phrap v. SPS - 4.24
+            Genome Coverage       :: 183x
+            Sequencing Technology :: Illumina; 454
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..219
+                     /organism="Burkholderia pseudomallei 576"
+                     /strain="576"
+                     /db_xref="taxon:557724"
+                     /chromosome="1"
+                     /country="Thailand"
+                     /note="alt ID MSHR576A"
+     Protein         1..219
+                     /product="50S ribosomal protein L3"
+     Region          1..214
+                     /region_name="rplC"
+                     /note="50S ribosomal protein L3; Validated; PRK00001"
+                     /db_xref="CDD:234564"
+     CDS             1..219
+                     /gene="rplC"
+                     /locus_tag="DP50_702"
+                     /coded_by="CP008777.1:778831..779490"
+                     /note="L3_bact: 50S ribosomal protein L3"
+                     /transl_table=11
+ORIGIN      
+        1 mslglvgrkv gmtriftaeg dsipvtvldv sdnrvtqikt vetdgytavq vafgsrrasr
+       61 vtkplaghla kagveageil kefrieadka aelsngavig pdlfevgqkv dvqgvsigkg
+      121 yagtikrynf gsgrashgns rshnvpgsig maqdpgrvfp gkrmtghmgd etvtvqnlei
+      181 aridadrkll lvkgavpgak ggkvfvtpav ktravkgak
+//
+

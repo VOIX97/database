@@ -1,0 +1,42 @@
+LOCUS       WP_004198359             156 aa            linear   BCT 29-AUG-2013
+DEFINITION  MULTISPECIES: 30S ribosomal protein S7 [Burkholderia].
+ACCESSION   WP_004198359
+VERSION     WP_004198359.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderia
+  ORGANISM  Burkholderia
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..156
+                     /organism="Burkholderia"
+                     /db_xref="taxon:32008"
+     Protein         1..156
+                     /product="30S ribosomal protein S7"
+                     /calculated_mol_wt=17555
+     Region          1..156
+                     /region_name="PRK05302"
+                     /note="30S ribosomal protein S7; Validated"
+                     /db_xref="CDD:235398"
+     Site            order(28..30,34..38,41..42,76,81,85,94..95,98,102,109,
+                     115..116,119)
+                     /site_type="other"
+                     /note="rRNA binding site [nucleotide binding]"
+                     /db_xref="CDD:271248"
+     Site            order(37,40..41,44)
+                     /site_type="other"
+                     /note="S9 interface [polypeptide binding]"
+                     /db_xref="CDD:271248"
+     Site            149
+                     /site_type="other"
+                     /note="S11 interface [polypeptide binding]"
+                     /db_xref="CDD:271248"
+ORIGIN      
+        1 mprrrevpkr evlpdpkygn vdvakfmnml mlsgkksvae rivygafeqi qtkggkdple
+       61 vftvalnnvk pvvevksrrv gganyqvpve vrpsrrmala mrwlreaakk rseksmalrl
+      121 agelseaaeg rggamkkrde vhrmaeanra fshfrf
+//
+

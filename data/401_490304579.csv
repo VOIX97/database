@@ -1,0 +1,36 @@
+LOCUS       WP_004199864             165 aa            linear   BCT 01-FEB-2018
+DEFINITION  MULTISPECIES: 50S ribosomal protein L10 [Burkholderia].
+ACCESSION   WP_004199864
+VERSION     WP_004199864.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderia
+  ORGANISM  Burkholderia
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..165
+                     /organism="Burkholderia"
+                     /db_xref="taxon:32008"
+     Protein         1..165
+                     /product="50S ribosomal protein L10"
+                     /calculated_mol_wt=17474
+     Region          23..162
+                     /region_name="rplJ"
+                     /note="50S ribosomal protein L10; Reviewed; PRK00099"
+                     /db_xref="CDD:234632"
+     Site            order(89,112,115,131,134..135,138..139,141..146,148..150,
+                     153..154,156..157,159)
+                     /site_type="other"
+                     /note="Interface with L7/L12 ribosomal proteins
+                     [polypeptide binding]"
+                     /db_xref="CDD:240223"
+ORIGIN      
+        1 mplnredkqa vvaevaaqva kaqtvvlaey rgiavgdltt lrakareqkv ylrvlkntla
+       61 rravegtpfa plaeqmtgpl iygisedaia aakvvhdfsk sndklvikag sydgkvmdka
+      121 gvqalasips reellskllf vmqapvsgfa ralaalaekk qaeaa
+//
+

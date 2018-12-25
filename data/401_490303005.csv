@@ -1,0 +1,29 @@
+LOCUS       WP_004198368             143 aa            linear   BCT 28-DEC-2014
+DEFINITION  MULTISPECIES: 50S ribosomal protein L11 [Burkholderia].
+ACCESSION   WP_004198368
+VERSION     WP_004198368.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderia
+  ORGANISM  Burkholderia
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..143
+                     /organism="Burkholderia"
+                     /db_xref="taxon:32008"
+     Protein         1..143
+                     /product="50S ribosomal protein L11"
+                     /calculated_mol_wt=14828
+     Region          1..142
+                     /region_name="rplK"
+                     /note="50S ribosomal protein L11; Validated; PRK00140"
+                     /db_xref="CDD:234661"
+ORIGIN      
+        1 makkivgfik lqipagkanp sppvgpalgq rglnimefck afnaqtqgme pglpvpvvit
+       61 ayadksftfv mktppatvli kkaakvdkgs skphtdkvgk itraqaeeia ktkmpdltaa
+      121 dldaavrtia gsarsmgitv egv
+//
+

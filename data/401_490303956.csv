@@ -1,0 +1,28 @@
+LOCUS       WP_004199273              91 aa            linear   BCT 31-MAR-2016
+DEFINITION  MULTISPECIES: 30S ribosomal protein S19 [Burkholderiaceae].
+ACCESSION   WP_004199273
+VERSION     WP_004199273.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderiaceae
+  ORGANISM  Burkholderiaceae
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..91
+                     /organism="Burkholderiaceae"
+                     /db_xref="taxon:119060"
+     Protein         1..91
+                     /product="30S ribosomal protein S19"
+                     /calculated_mol_wt=9977
+     Region          1..91
+                     /region_name="rpsS"
+                     /note="30S ribosomal protein S19; Reviewed; PRK00357"
+                     /db_xref="CDD:178985"
+ORIGIN      
+        1 marsvkkgpf cdahllkkve aaaasrdkkp iktwsrrsti lpdfigltia vhngrqhvpv
+       61 yisenmvghk lgefaltrtf kghaadkkak k
+//
+

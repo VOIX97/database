@@ -1,0 +1,30 @@
+LOCUS       WP_004191711             150 aa            linear   BCT 01-FEB-2018
+DEFINITION  MULTISPECIES: 50S ribosomal protein L9 [Burkholderia].
+ACCESSION   WP_004191711
+VERSION     WP_004191711.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderia
+  ORGANISM  Burkholderia
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..150
+                     /organism="Burkholderia"
+                     /db_xref="taxon:32008"
+     Protein         1..150
+                     /product="50S ribosomal protein L9"
+                     /calculated_mol_wt=16114
+     Region          1..134
+                     /region_name="rplI"
+                     /note="50S ribosomal protein L9; Reviewed; PRK00137"
+                     /db_xref="CDD:234659"
+ORIGIN      
+        1 mqiillekva nlgnlgdivk vkdgyarnfl ipnrkarrat kdaiaefevr raelekvaae
+       61 klaaaqavge klngqtfeit qksgvdgrlf gsvtngdvae llkkagyeie kaqvrmpegp
+      121 lkmigehgvq valhtdvvvd vtvnvigdha
+//
+

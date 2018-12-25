@@ -1,0 +1,27 @@
+LOCUS       WP_004192741              59 aa            linear   BCT 28-DEC-2014
+DEFINITION  MULTISPECIES: 50S ribosomal protein L32 [Burkholderia].
+ACCESSION   WP_004192741
+VERSION     WP_004192741.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderia
+  ORGANISM  Burkholderia
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..59
+                     /organism="Burkholderia"
+                     /db_xref="taxon:32008"
+     Protein         1..59
+                     /product="50S ribosomal protein L32"
+                     /calculated_mol_wt=6551
+     Region          1..59
+                     /region_name="rpmF"
+                     /note="50S ribosomal protein L32; Validated; PRK01110"
+                     /db_xref="CDD:234901"
+ORIGIN      
+        1 mavqqnkksp skrgmhrshd flttsplave pstgevhlrh hispngyyrg kkvvktknd
+//
+
