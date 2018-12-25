@@ -1,0 +1,34 @@
+LOCUS       WP_004535281             300 aa            linear   BCT 06-APR-2017
+DEFINITION  50S ribosomal protein L11 methyltransferase [Burkholderia
+            pseudomallei].
+ACCESSION   WP_004535281
+VERSION     WP_004535281.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderia pseudomallei
+  ORGANISM  Burkholderia pseudomallei
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae; Burkholderia; pseudomallei group.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..300
+                     /organism="Burkholderia pseudomallei"
+                     /db_xref="taxon:28450"
+     Protein         1..300
+                     /product="50S ribosomal protein L11 methyltransferase"
+                     /calculated_mol_wt=32416
+     Region          1..297
+                     /region_name="prmA"
+                     /note="ribosomal protein L11 methyltransferase; Reviewed;
+                     PRK00517"
+                     /db_xref="CDD:234786"
+ORIGIN      
+        1 msyrelvael prehaealsd alvelgalsv svedadadtp deqplfgepg lvpertawqh
+       61 srvialvdat qdpavllaaa aneaglaqap rfelreveeq dwvrltqsqf epihigekiw
+      121 vvpswhdapq pdalvleldp glafgtgshp ttrlcmewle qtvqpgqtvl dygcgsgila
+      181 ilakkcgagh vtgididpqa veaarhnser nradvtyglp ddcpdgefdi vvanilsnpl
+      241 klmasmlask vkpggrials gvlarqadev asvyaryidi avwrehegwv clagtrresh
+//
+

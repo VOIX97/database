@@ -1,0 +1,41 @@
+LOCUS       WP_004192938             119 aa            linear   BCT 15-JUL-2018
+DEFINITION  MULTISPECIES: 50S ribosomal protein L20 [Proteobacteria].
+ACCESSION   WP_004192938
+VERSION     WP_004192938.1
+KEYWORDS    RefSeq.
+SOURCE      Proteobacteria
+  ORGANISM  Proteobacteria
+            Bacteria.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..119
+                     /organism="Proteobacteria"
+                     /db_xref="taxon:1224"
+     Protein         1..119
+                     /product="50S ribosomal protein L20"
+                     /calculated_mol_wt=13513
+     Region          2..115
+                     /region_name="rplT"
+                     /note="50S ribosomal protein L20; Provisional; PRK05185"
+                     /db_xref="CDD:179959"
+     Site            order(6..11,13..16,21..28,30..33,36..37,41..42,45..59,
+                     61..63,66,70,76..77,80..81,84,92..94)
+                     /site_type="other"
+                     /note="23S rRNA binding site [nucleotide binding]"
+                     /db_xref="CDD:197305"
+     Site            order(36,40,43..44,46..47,50,89..92,95,101..102,108..109)
+                     /site_type="other"
+                     /note="L21 binding site [polypeptide binding]"
+                     /db_xref="CDD:197305"
+     Site            order(57,60..61,64,67..68,70,94,97,100)
+                     /site_type="other"
+                     /note="L13 binding site [polypeptide binding]"
+                     /db_xref="CDD:197305"
+ORIGIN      
+        1 mprvkrgvta rarhkkiinl akgyrgrrnn vyriakqavm ragqyayrdr rnkkrvfral
+       61 witrinaavr qhdmtysvfi nglkkasiel drkvladmav fdkaafaaiv kqvkaavaa
+//
+

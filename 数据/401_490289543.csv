@@ -1,0 +1,29 @@
+LOCUS       WP_004185153             131 aa            linear   BCT 28-DEC-2014
+DEFINITION  MULTISPECIES: 30S ribosomal protein S8 [Burkholderia].
+ACCESSION   WP_004185153
+VERSION     WP_004185153.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderia
+  ORGANISM  Burkholderia
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..131
+                     /organism="Burkholderia"
+                     /db_xref="taxon:32008"
+     Protein         1..131
+                     /product="30S ribosomal protein S8"
+                     /calculated_mol_wt=14068
+     Region          2..131
+                     /region_name="rpsH"
+                     /note="30S ribosomal protein S8; Validated; PRK00136"
+                     /db_xref="CDD:234658"
+ORIGIN      
+        1 msmsdpiadm ltrirnaqmv ekvsvsmpss kvkvaiaqvl kdegyiddfa vkadgakael
+       61 nialkyyagr pvierlervs kpglrvyrgr neipqvmngl gvaivstpkg vmtdrkarat
+      121 gvggevicyv a
+//
+

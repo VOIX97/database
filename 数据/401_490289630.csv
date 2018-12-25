@@ -1,0 +1,32 @@
+LOCUS       WP_004185240             266 aa            linear   BCT 08-SEP-2016
+DEFINITION  MULTISPECIES: 30S ribosomal protein S3 [Burkholderia].
+ACCESSION   WP_004185240
+VERSION     WP_004185240.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderia
+  ORGANISM  Burkholderia
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..266
+                     /organism="Burkholderia"
+                     /db_xref="taxon:32008"
+     Protein         1..266
+                     /product="30S ribosomal protein S3"
+                     /calculated_mol_wt=29788
+     Region          1..229
+                     /region_name="rpsC"
+                     /note="30S ribosomal protein S3; Reviewed; PRK00310"
+                     /db_xref="CDD:234722"
+ORIGIN      
+        1 mgqkihptgf rlavsrnwas rwyannnnfa amlqedigvr eylkkklkna svgrvvierp
+       61 aknaritifs srpgvvigkk gediellkte lqrrmgvpvh vnieeirkpe tdaqliadsi
+      121 tqqlerrimf rramkramqn amrlgaqgik imsagrlngi eiartewyre grvplhtlra
+      181 didyatseak ttygiigvkv wvykgdtlgr ndapvveevt edkrprrnar pgdrrprrdg
+      241 eggapgarrg gprrgagkpe dgktge
+//
+

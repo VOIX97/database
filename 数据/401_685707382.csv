@@ -1,0 +1,90 @@
+LOCUS       AIO94437                 138 aa            linear   BCT 01-DEC-2014
+DEFINITION  ribosomal protein L16 [Burkholderia pseudomallei 576].
+ACCESSION   AIO94437
+VERSION     AIO94437.1
+DBLINK      BioProject: PRJNA244408
+            BioSample: SAMN02866333
+DBSOURCE    accession CP008777.1
+KEYWORDS    .
+SOURCE      Burkholderia pseudomallei 576
+  ORGANISM  Burkholderia pseudomallei 576
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae; Burkholderia; pseudomallei group.
+REFERENCE   1  (residues 1 to 138)
+  AUTHORS   Daligault,H.E., Davenport,K.W., Minogue,T.D., Bishop-Lilly,K.A.,
+            Broomall,S.M., Bruce,D.C., Chain,P.S., Coyne,S.R., Frey,K.G.,
+            Gibbons,H.S., Jaissle,J., Koroleva,G.I., Ladner,J.T., Lo,C.C.,
+            Munk,C., Palacios,G.F., Redden,C.L., Rosenzweig,C.N., Scholz,M.B.
+            and Johnson,S.L.
+  TITLE     Whole-Genome Assemblies of 56 Burkholderia Species
+  JOURNAL   Genome Announc 2 (6) (2014)
+   PUBMED   25414490
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 138)
+  AUTHORS   Bishop-Lilly,K.A., Broomall,S.M., Chain,P.S., Chertkov,O.,
+            Coyne,S.R., Daligault,H.E., Davenport,K.W., Erkkila,T., Frey,K.G.,
+            Gibbons,H.S., Gu,W., Jaissle,J., Johnson,S.L., Koroleva,G.I.,
+            Ladner,J.T., Lo,C.-C., Minogue,T.D., Munk,C., Palacios,G.F.,
+            Redden,C.L., Rosenzweig,C.N., Scholz,M.B., Teshima,H. and Xu,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-JUN-2014) Bioscience, Los Alamos National Laboratory,
+            P.O. Box 1663, MS M888, Los Alamos, NM 87545, USA
+COMMENT     The DNA was obtained from USAMRIID. The authors would like to thank
+            Drs Mark May and Bart Currie for providing the original strain.
+            
+            ##Genome-Assembly-Data-START##
+            Assembly Date         :: 20-MAR-2013
+            Assembly Method       :: Newbler v. 2.6; Velvet v. 1.2.08; Allpaths
+                                     v. 39750; Phrap v. SPS - 4.24
+            Genome Coverage       :: 183x
+            Sequencing Technology :: Illumina; 454
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..138
+                     /organism="Burkholderia pseudomallei 576"
+                     /strain="576"
+                     /db_xref="taxon:557724"
+                     /chromosome="1"
+                     /country="Thailand"
+                     /note="alt ID MSHR576A"
+     Protein         1..138
+                     /product="ribosomal protein L16"
+     Region          1..135
+                     /region_name="rplP"
+                     /note="50S ribosomal protein L16; Reviewed; PRK09203"
+                     /db_xref="CDD:236411"
+     Site            order(23,25..26,29,45..46,49,52,56,59,65..67,69,71,75..76,
+                     83..87,101,119..120,123..124)
+                     /site_type="other"
+                     /note="23S rRNA interface [nucleotide binding]"
+                     /db_xref="CDD:238714"
+     Site            38..39
+                     /site_type="other"
+                     /note="5S rRNA interface [nucleotide binding]"
+                     /db_xref="CDD:238714"
+     Site            order(50..52,55..56)
+                     /site_type="other"
+                     /note="putative antibiotic binding site [chemical
+                     binding]"
+                     /db_xref="CDD:238714"
+     Site            order(59,62..63,65,107)
+                     /site_type="other"
+                     /note="L25 interface [polypeptide binding]"
+                     /db_xref="CDD:238714"
+     Site            order(81..82,85..86)
+                     /site_type="other"
+                     /note="L27 interface [polypeptide binding]"
+                     /db_xref="CDD:238714"
+     CDS             1..138
+                     /gene="rplP"
+                     /locus_tag="DP50_709"
+                     /coded_by="CP008777.1:782694..783110"
+                     /note="rplP_bact: ribosomal protein L16"
+                     /transl_table=11
+ORIGIN      
+        1 mlqpkrrkyr keqkgrntgi atrgnavsfg efglkavgrg rltarqieaa rramtrhikr
+       61 ggriwirifp dkpisqkpae vrmgngkgnp eyyvaeiqpg kmlyemdgvs eelareafrl
+      121 aaaklplktt fivrqlga
+//
+

@@ -1,0 +1,27 @@
+LOCUS       WP_004198824              44 aa            linear   BCT 01-OCT-2017
+DEFINITION  MULTISPECIES: 50S ribosomal protein L34 [Proteobacteria].
+ACCESSION   WP_004198824
+VERSION     WP_004198824.1
+KEYWORDS    RefSeq.
+SOURCE      Proteobacteria
+  ORGANISM  Proteobacteria
+            Bacteria.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..44
+                     /organism="Proteobacteria"
+                     /db_xref="taxon:1224"
+     Protein         1..44
+                     /product="50S ribosomal protein L34"
+                     /calculated_mol_wt=5064
+     Region          1..44
+                     /region_name="rpmH"
+                     /note="50S ribosomal protein L34; Reviewed; PRK00399"
+                     /db_xref="CDD:179004"
+ORIGIN      
+        1 mkrtyqpsvt rrkrthgfrv rmktaggrkv inarrakgrk rlai
+//
+

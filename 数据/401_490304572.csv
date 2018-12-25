@@ -1,0 +1,51 @@
+LOCUS       WP_004199857             138 aa            linear   BCT 28-DEC-2014
+DEFINITION  MULTISPECIES: 50S ribosomal protein L16 [Burkholderia].
+ACCESSION   WP_004199857
+VERSION     WP_004199857.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderia
+  ORGANISM  Burkholderia
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..138
+                     /organism="Burkholderia"
+                     /db_xref="taxon:32008"
+     Protein         1..138
+                     /product="50S ribosomal protein L16"
+                     /calculated_mol_wt=15452
+     Region          1..135
+                     /region_name="rplP"
+                     /note="50S ribosomal protein L16; Reviewed; PRK09203"
+                     /db_xref="CDD:236411"
+     Site            order(23,25..26,29,45..46,49,52,56,59,65..67,69,71,75..76,
+                     83..87,101,119..120,123..124)
+                     /site_type="other"
+                     /note="23S rRNA interface [nucleotide binding]"
+                     /db_xref="CDD:238714"
+     Site            38..39
+                     /site_type="other"
+                     /note="5S rRNA interface [nucleotide binding]"
+                     /db_xref="CDD:238714"
+     Site            order(50..52,55..56)
+                     /site_type="other"
+                     /note="putative antibiotic binding site [chemical
+                     binding]"
+                     /db_xref="CDD:238714"
+     Site            order(59,62..63,65,107)
+                     /site_type="other"
+                     /note="L25 interface [polypeptide binding]"
+                     /db_xref="CDD:238714"
+     Site            order(81..82,85..86)
+                     /site_type="other"
+                     /note="L27 interface [polypeptide binding]"
+                     /db_xref="CDD:238714"
+ORIGIN      
+        1 mlqpkrrkyr keqkgrntgi atrgnavsfg efglkavgrg rltarqieaa rramtrhikr
+       61 ggriwirifp dkpisqkpae vrmgngkgnp eyyvaeiqpg kmlyemdgvs eelareafrl
+      121 aaaklplktt fivrqlga
+//
+

@@ -1,0 +1,30 @@
+LOCUS       WP_004197937             133 aa            linear   BCT 04-JAN-2017
+DEFINITION  MULTISPECIES: 30S ribosomal protein S11 [Burkholderia].
+ACCESSION   WP_004197937
+VERSION     WP_004197937.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderia
+  ORGANISM  Burkholderia
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..133
+                     /organism="Burkholderia"
+                     /db_xref="taxon:32008"
+     Protein         1..133
+                     /product="30S ribosomal protein S11"
+                     /calculated_mol_wt=13987
+     Region          8..133
+                     /region_name="PRK05309"
+                     /note="30S ribosomal protein S11; Validated"
+                     /db_xref="CDD:180007"
+ORIGIN      
+        1 makasntaaq rvrkkvkknv aegvvhvhas fnntiititd rqgnalawat sggqgfkgsr
+       61 kstpfaaqva aesagrvame ygvknlevri kgpgpgresa vralhglgik itaisdvtpi
+      121 phngcrppkr rri
+//
+

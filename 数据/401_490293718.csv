@@ -1,0 +1,37 @@
+LOCUS       WP_004189285             570 aa            linear   BCT 01-FEB-2018
+DEFINITION  MULTISPECIES: 30S ribosomal protein S1 [Burkholderia].
+ACCESSION   WP_004189285
+VERSION     WP_004189285.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderia
+  ORGANISM  Burkholderia
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..570
+                     /organism="Burkholderia"
+                     /db_xref="taxon:32008"
+     Protein         1..570
+                     /product="30S ribosomal protein S1"
+                     /calculated_mol_wt=62177
+     Region          1..568
+                     /region_name="rpsA"
+                     /note="30S ribosomal protein S1; Reviewed; PRK06299"
+                     /db_xref="CDD:235775"
+ORIGIN      
+        1 msdlqtsnpn tesfaalfee sltrqdmrag evisaevvrv dhnfvvvnag lkseayipie
+       61 eflndqgeve vqagdfvsva idalengygd tilsrdkakr laswlsleka ldnnelvtgt
+      121 itgkvkggmt vmvngirafl pgslvdtrpv kdttpyegkt lefrvikldr krnnvvlsrr
+      181 avieatqgee raklletlke gaivngvvkn itdygafvdl ggidgllhit diawrrvrhp
+      241 sevlsvgqev takilkfdqe knrvslgikq lgddpwegis rrypsgtrlf gkvtnitdyg
+      301 afvevesgie glvhvsemdw tnknvapskv vqlgdevevm vleidedrrr islgmkqckp
+      361 npwddfsrnf kkgdkitgai ksitdfgvfi glpggidglv hlsdlswsea geeavrkykk
+      421 gdeveaivlg idvekerisl gikqlegdpf snyvamndkg sivdgvvksv dakgavitlt
+      481 pdvegylras eisqdrveda rnvlkegekv namvinidrk srginlsika kdsaeqqeam
+      541 rglqadssaa atgttnlgal lkakldgqnq
+//
+

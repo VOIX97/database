@@ -1,0 +1,32 @@
+LOCUS       WP_004202755              60 aa            linear   BCT 05-OCT-2018
+DEFINITION  MULTISPECIES: 50S ribosomal protein L30 [Burkholderiaceae].
+ACCESSION   WP_004202755
+VERSION     WP_004202755.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderiaceae
+  ORGANISM  Burkholderiaceae
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..60
+                     /organism="Burkholderiaceae"
+                     /db_xref="taxon:119060"
+     Protein         1..60
+                     /product="50S ribosomal protein L30"
+                     /calculated_mol_wt=6490
+     Region          4..58
+                     /region_name="rpmD"
+                     /note="50S ribosomal protein L30; Reviewed; PRK05611"
+                     /db_xref="CDD:180163"
+     Site            order(12..13,15..16,18..20,23..24,27..29,31,34,39..40,
+                     43..45,47..48)
+                     /site_type="other"
+                     /note="23S rRNA binding site [nucleotide binding]"
+                     /db_xref="CDD:100100"
+ORIGIN      
+        1 msektvkvql vksligtres hratvrglgl rrlnsvselq dtpavrgmin kvsylvkvig
+//
+

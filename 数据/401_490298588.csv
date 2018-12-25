@@ -1,0 +1,29 @@
+LOCUS       WP_004194025              87 aa            linear   BCT 01-FEB-2018
+DEFINITION  MULTISPECIES: 50S ribosomal protein L27 [Burkholderia].
+ACCESSION   WP_004194025
+VERSION     WP_004194025.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderia
+  ORGANISM  Burkholderia
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..87
+                     /organism="Burkholderia"
+                     /db_xref="taxon:32008"
+     Protein         1..87
+                     /product="50S ribosomal protein L27"
+                     /calculated_mol_wt=8918
+     Region          1..82
+                     /region_name="rpmA"
+                     /note="50S ribosomal protein L27; Validated; PRK05435"
+                     /db_xref="CDD:235464"
+ORIGIN      
+        1 mahkkaggss rngrdseskr lgvkvyggqa inaggiivrq rgtrmhagen vgmgkdhtlf
+       61 alvdghvkft tkgaakkhtv vvvpaaa
+//
+

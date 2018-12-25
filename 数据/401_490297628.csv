@@ -1,0 +1,30 @@
+LOCUS       WP_004193070              87 aa            linear   BCT 23-APR-2018
+DEFINITION  MULTISPECIES: type B 50S ribosomal protein L31 [Burkholderia].
+ACCESSION   WP_004193070
+VERSION     WP_004193070.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderia
+  ORGANISM  Burkholderia
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..87
+                     /organism="Burkholderia"
+                     /db_xref="taxon:32008"
+     Protein         1..87
+                     /product="type B 50S ribosomal protein L31"
+                     /calculated_mol_wt=9781
+     Region          1..86
+                     /region_name="rpmE2"
+                     /note="50S ribosomal protein L31 type B; Reviewed;
+                     PRK01678"
+                     /db_xref="CDD:234969"
+ORIGIN      
+        1 mkqgihpdyr evvfqdmsng fkfitrstiq tretiefegk typlakievs seshsfytgq
+       61 qkimdtagrv ekfknkfgar asgkaak
+//
+

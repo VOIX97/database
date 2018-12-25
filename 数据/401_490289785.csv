@@ -1,0 +1,27 @@
+LOCUS       WP_004185395              55 aa            linear   BCT 31-MAR-2016
+DEFINITION  MULTISPECIES: 50S ribosomal protein L33 [Burkholderiaceae].
+ACCESSION   WP_004185395
+VERSION     WP_004185395.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderiaceae
+  ORGANISM  Burkholderiaceae
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..55
+                     /organism="Burkholderiaceae"
+                     /db_xref="taxon:119060"
+     Protein         1..55
+                     /product="50S ribosomal protein L33"
+                     /calculated_mol_wt=6225
+     Region          1..53
+                     /region_name="rpmG"
+                     /note="50S ribosomal protein L33; Validated; PRK00595"
+                     /db_xref="CDD:179075"
+ORIGIN      
+        1 makgardkik lestagtghf ytttknkrnm pekmeimkfd pvarkhvayk etkik
+//
+

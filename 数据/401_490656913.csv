@@ -1,0 +1,55 @@
+LOCUS       WP_004521903             126 aa            linear   BCT 28-DEC-2014
+DEFINITION  MULTISPECIES: 30S ribosomal protein S12 [Burkholderia].
+ACCESSION   WP_004521903
+VERSION     WP_004521903.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderia
+  ORGANISM  Burkholderia
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..126
+                     /organism="Burkholderia"
+                     /db_xref="taxon:32008"
+     Protein         1..126
+                     /product="30S ribosomal protein S12"
+                     /calculated_mol_wt=13811
+     Region          1..124
+                     /region_name="rpsL"
+                     /note="30S ribosomal protein S12; Validated; PRK05163"
+                     /db_xref="CDD:235355"
+     Site            order(4..5,7..8,11..12)
+                     /site_type="other"
+                     /note="S17 interaction site [polypeptide binding]"
+                     /db_xref="CDD:239466"
+     Site            4
+                     /site_type="other"
+                     /note="S8 interaction site"
+                     /db_xref="CDD:239466"
+     Site            order(12..14,26,28..29,31,46..47,49..51,58,66,69..70,
+                     83..84,88..89,110)
+                     /site_type="other"
+                     /note="16S rRNA interaction site [nucleotide binding]"
+                     /db_xref="CDD:239466"
+     Site            order(43..44,88)
+                     /site_type="other"
+                     /note="streptomycin interaction site [chemical binding]"
+                     /db_xref="CDD:239466"
+     Site            44..45
+                     /site_type="other"
+                     /note="23S rRNA interaction site [nucleotide binding]"
+                     /db_xref="CDD:239466"
+     Site            order(45..50,70..78)
+                     /site_type="other"
+                     /note="aminoacyl-tRNA interaction site (A-site)
+                     [nucleotide binding]"
+                     /db_xref="CDD:239466"
+ORIGIN      
+        1 mptinqlvrk grasettksk spalqdcpqr rgvctrvytt tpkkpnsalr kvakvrltng
+       61 fevisyigge ghnlqehsvv lirggrvkdl pgvryhmvrg sldtqgvkdr kqarskygak
+      121 rakaak
+//
+

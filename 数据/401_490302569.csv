@@ -1,0 +1,29 @@
+LOCUS       WP_004197951             122 aa            linear   BCT 31-MAR-2016
+DEFINITION  MULTISPECIES: 50S ribosomal protein L14 [Burkholderiaceae].
+ACCESSION   WP_004197951
+VERSION     WP_004197951.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderiaceae
+  ORGANISM  Burkholderiaceae
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..122
+                     /organism="Burkholderiaceae"
+                     /db_xref="taxon:119060"
+     Protein         1..122
+                     /product="50S ribosomal protein L14"
+                     /calculated_mol_wt=13323
+     Region          1..122
+                     /region_name="rplN"
+                     /note="50S ribosomal protein L14; Validated; PRK05483"
+                     /db_xref="CDD:180117"
+ORIGIN      
+        1 miqtesrlev adntgarevm cikvlggskr ryasigdiik vsvkeatprg rvkkgeiyna
+       61 vvvrtakgvr rqdgslikfd gnaavllnnk lepigtrifg pvtrelrser fmkivslape
+      121 vl
+//
+

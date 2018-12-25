@@ -1,0 +1,36 @@
+LOCUS       WP_004521178             307 aa            linear   BCT 06-APR-2017
+DEFINITION  50S ribosomal protein L3 N(5)-glutamine methyltransferase
+            [Burkholderia pseudomallei].
+ACCESSION   WP_004521178
+VERSION     WP_004521178.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderia pseudomallei
+  ORGANISM  Burkholderia pseudomallei
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae; Burkholderia; pseudomallei group.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..307
+                     /organism="Burkholderia pseudomallei"
+                     /db_xref="taxon:28450"
+     Protein         1..307
+                     /product="50S ribosomal protein L3 N(5)-glutamine
+                     methyltransferase"
+                     /calculated_mol_wt=33405
+     Region          1..304
+                     /region_name="PRK11805"
+                     /note="N5-glutamine S-adenosyl-L-methionine-dependent
+                     methyltransferase; Provisional"
+                     /db_xref="CDD:236988"
+ORIGIN      
+        1 mttsptpfkt vrdlvrhavs rfsqaklafg hgsdnafdea vylvlhtlhl pldtlepfld
+       61 arlapdeida vlavierrat ervpaayltr eawmhghrfy vdervivprs figellddgl
+      121 qpyvedpelv gsvlelctgs gclailaala fpnasvdavd lsadalavak inrdnyglde
+      181 rialyhgdly aplpqfkwid parrydviia nppyvnagsm aelpaeyrhe pemalaggad
+      241 gmdivrriig earrwlqddg vlvveigner anveaafggl elvwlptsag dgsvflihas
+      301 elpavag
+//
+

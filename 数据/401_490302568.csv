@@ -1,0 +1,32 @@
+LOCUS       WP_004197950             102 aa            linear   BCT 28-DEC-2014
+DEFINITION  MULTISPECIES: 50S ribosomal protein L24 [Burkholderia].
+ACCESSION   WP_004197950
+VERSION     WP_004197950.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderia
+  ORGANISM  Burkholderia
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..102
+                     /organism="Burkholderia"
+                     /db_xref="taxon:32008"
+     Protein         1..102
+                     /product="50S ribosomal protein L24"
+                     /calculated_mol_wt=10578
+     Region          1..100
+                     /region_name="rplX"
+                     /note="50S ribosomal protein L24; Reviewed; PRK00004"
+                     /db_xref="CDD:234566"
+     Site            order(14..16,28,41..42,65..66)
+                     /site_type="other"
+                     /note="RNA binding site [nucleotide binding]"
+                     /db_xref="CDD:240513"
+ORIGIN      
+        1 mnkirkgdev ivitgkdkgk rgvvlavgae hvtveginlv kkhvkpnpmk gttggveakt
+       61 mplhisnval vdangkasrv gikvedgkkv rflkttgavl sa
+//
+

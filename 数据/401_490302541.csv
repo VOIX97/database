@@ -1,0 +1,29 @@
+LOCUS       WP_004197924             131 aa            linear   BCT 29-AUG-2013
+DEFINITION  MULTISPECIES: 50S ribosomal protein L17 [Burkholderia].
+ACCESSION   WP_004197924
+VERSION     WP_004197924.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderia
+  ORGANISM  Burkholderia
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..131
+                     /organism="Burkholderia"
+                     /db_xref="taxon:32008"
+     Protein         1..131
+                     /product="50S ribosomal protein L17"
+                     /calculated_mol_wt=14946
+     Region          4..116
+                     /region_name="rplQ"
+                     /note="50S ribosomal protein L17; Validated; PRK05591"
+                     /db_xref="CDD:235522"
+ORIGIN      
+        1 mrhrhglrkl nrtsshrlam lrnmsnslie hevikttlpk akelrkvvep litlgkkpsl
+       61 anrrlafnrl rdrdsvaklf dvlgprfanr pggylrilkf gfrvgdnapm alvelldrpe
+      121 veetenvqea e
+//
+

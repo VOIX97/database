@@ -1,0 +1,38 @@
+LOCUS       WP_004521351             463 aa            linear   BCT 06-APR-2017
+DEFINITION  30S ribosomal protein S12 methylthiotransferase RimO [Burkholderia
+            pseudomallei].
+ACCESSION   WP_004521351
+VERSION     WP_004521351.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderia pseudomallei
+  ORGANISM  Burkholderia pseudomallei
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae; Burkholderia; pseudomallei group.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..463
+                     /organism="Burkholderia pseudomallei"
+                     /db_xref="taxon:28450"
+     Protein         1..463
+                     /product="30S ribosomal protein S12 methylthiotransferase
+                     RimO"
+                     /calculated_mol_wt=50018
+     Region          10..463
+                     /region_name="rimO"
+                     /note="ribosomal protein S12 methylthiotransferase;
+                     Provisional; PRK14862"
+                     /db_xref="CDD:237838"
+ORIGIN      
+        1 menslkssgk plaapkvgmv slgcpkalvd seqiitqlra egyeisgtyd gadlvvvntc
+       61 gfideavqes ldaigealae ngkvivtgcl gakksasgsg liaevhpkvl avtgphavge
+      121 vmqavhshlp kphdpfvdlv paagikltpr hyaylkiseg cnhrcsfcii psmrgelvsr
+      181 pvaevmleae nlfksgvkel lvisqdtsay gvdvkyrtgf wngrplktrm telvgalgel
+      241 aaqygawvrl hyvypyphvd eiipmmaqgp lkghvlpyld vpfqhahpev lkrmkrpana
+      301 ervlervqkw reicpdltir stfiagfpge tdaqfetlld fireaeldrv gcfayspveg
+      361 asanaldgal pddvrearra rfmevaeevs aariarkvgk tlkvlidevn aeggigrtaa
+      421 dapeidgvvy vepaakaskr ykvgefvsvk itgadghdlw gev
+//
+

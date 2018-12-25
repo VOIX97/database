@@ -1,0 +1,44 @@
+LOCUS       WP_004200150             204 aa            linear   BCT 01-FEB-2018
+DEFINITION  MULTISPECIES: 50S ribosomal protein L25 [Burkholderia].
+ACCESSION   WP_004200150
+VERSION     WP_004200150.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderia
+  ORGANISM  Burkholderia
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..204
+                     /organism="Burkholderia"
+                     /db_xref="taxon:32008"
+     Protein         1..204
+                     /product="50S ribosomal protein L25"
+                     /calculated_mol_wt=21809
+     Region          1..198
+                     /region_name="PRK05618"
+                     /note="50S ribosomal protein L25/general stress protein
+                     Ctc; Reviewed"
+                     /db_xref="CDD:235534"
+     Site            order(8,16..18,20,30..32,36,74..75,77,87,89,91)
+                     /site_type="other"
+                     /note="5S rRNA interface [nucleotide binding]"
+                     /db_xref="CDD:198379"
+     Site            order(32,58,70,74,91..92)
+                     /site_type="other"
+                     /note="CTC domain interface [polypeptide binding]"
+                     /db_xref="CDD:198379"
+     Site            order(72..73,76,83,91)
+                     /site_type="other"
+                     /note="L16 interface [polypeptide binding]"
+                     /db_xref="CDD:198379"
+ORIGIN      
+        1 mkvvaferqq qgtgasrrlr nagkttgivy ggeaapqmie ldhnalwhal kkeafhssil
+       61 dlevagksqr vllrdvqyhp frqlvlhvdf qridpkkklh tkaplhflna etspavklss
+      121 avvshvvtei eieclpadlp eflevdlski eagqslhakd ialpngvalt ahvdaenpvi
+      181 asatipagav sdeaaagege tpaa
+//
+

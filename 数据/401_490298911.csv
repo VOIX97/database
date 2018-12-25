@@ -1,0 +1,28 @@
+LOCUS       WP_004194344             103 aa            linear   BCT 31-MAR-2016
+DEFINITION  MULTISPECIES: 50S ribosomal protein L21 [Burkholderiaceae].
+ACCESSION   WP_004194344
+VERSION     WP_004194344.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderiaceae
+  ORGANISM  Burkholderiaceae
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..103
+                     /organism="Burkholderiaceae"
+                     /db_xref="taxon:119060"
+     Protein         1..103
+                     /product="50S ribosomal protein L21"
+                     /calculated_mol_wt=11225
+     Region          1..103
+                     /region_name="rplU"
+                     /note="50S ribosomal protein L21; Validated; PRK05573"
+                     /db_xref="CDD:235510"
+ORIGIN      
+        1 myaviktggk qykvavgekl kveqipadid aeitldqvla vgegesiqfg tplvsgasvk
+       61 atvvshgrha kvtifkmrrr khyqkhgghr qnytelrida ina
+//
+
